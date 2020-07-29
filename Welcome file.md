@@ -7,7 +7,10 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 [README.md](README.md)
 
+[fdd](./README)
+
 welcome file edited
+
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -146,5 +149,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk2NTE5MTFdfQ==
+eyJoaXN0b3J5IjpbLTE0NjIyNjc0OV19
 -->
